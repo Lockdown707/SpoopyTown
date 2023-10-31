@@ -959,7 +959,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc015664378f95f4fb127526ec8d83df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  alienPrefabs: []
+  alienPrefabs:
+  - {fileID: 3789425767288278635, guid: a53c243fe59c9d644a0fbfeade8b7c6a, type: 3}
+  - {fileID: 7839587555793747886, guid: c8a2816afe36e6a489ff78219aa128f5, type: 3}
+  - {fileID: 4744978303366296340, guid: cef55c7029d40ef408db2fd91f631393, type: 3}
   spawnRangeX: 10
   spawnPosZ: 10
   spawnRangeY: 10
